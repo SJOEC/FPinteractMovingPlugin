@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FPInteractionFramework",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "SJOE",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FPInteractionFramework",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+        		"PlatformAllowList": [
+            		"Win64"
+        		]
+
+		}
+	]
+}
